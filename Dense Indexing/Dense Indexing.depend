@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634648671 source:c:\users\berk\desktop\codes\dense indexing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
